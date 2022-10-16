@@ -1,0 +1,8 @@
+pyperclip
+requests
+string
+random
+time
+sys
+re
+os
