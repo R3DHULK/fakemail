@@ -1,8 +1,8 @@
 <h1><b> Fake Mail </b></h1>
-<h2><i>🔴 Don't use your personal email for unwanted purposes. Just use this email. It helps you to let grant unauthorised permission. 
-🔴 Keep your personal mailbox clean.
-🔴 Bypass any email authentication problems.
-🔴 Free To Use.
+<h2><i>🔴 Don't use your personal email for unwanted purposes. Just use this email. It helps you to let grant unauthorised permission. <br>
+🔴 Keep your personal mailbox clean. <br>
+🔴 Bypass any email authentication problems. <br>
+🔴 Free To Use.<br>
 </h2></i>
 
 #
